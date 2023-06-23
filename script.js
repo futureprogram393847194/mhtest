@@ -11,10 +11,10 @@ mask.onclick = () => {
 };
 
 document.getElementById("btn1").addEventListener("click", function() {
-    window.location.href = "#"; // リンク先のURLを指定します
+    window.location.href = "https://futureprogram393847194.github.io/game/"; // リンク先のURLを指定します
   });
 
   document.getElementById("btn2").addEventListener("click", function() {
-    window.location.href = "#"; // リンク先のURLを指定します
+    window.location.href = "https://futureprogram393847194.github.io/game/"; // リンク先のURLを指定します
   });
   
